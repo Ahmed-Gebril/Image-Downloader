@@ -58,7 +58,7 @@ class Userinterface:
 
     def downloader(self):
 
-        import dolo
+        import http_request _scraper
 
 
 def main():
